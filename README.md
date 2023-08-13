@@ -20,7 +20,9 @@ When you sign back in the fonts will be changed
   
 How To Uninstall:  
 Run denotofy.reg  
-Run uninstall.bat as administrator  
-Log out  
+Run Command Prompt as an administrator  
+In File Manager right click denotofy.bat -> Copy as path  
+Paste into Command Prompt, Press Enter and follow onscreen instructions  
+Log out 
   
 When you sign back in all changes should be reverted  
