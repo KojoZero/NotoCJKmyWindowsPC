@@ -18,9 +18,9 @@ Log out
   
 When you sign back in the fonts will be changed  
   
-How To Uninstall:
-Run denotofy.reg 
-Run uninstall.bat as administrator
-Log out
-
-When you sign back in all changes should be reverted
+How To Uninstall:  
+Run denotofy.reg  
+Run uninstall.bat as administrator  
+Log out  
+  
+When you sign back in all changes should be reverted  
