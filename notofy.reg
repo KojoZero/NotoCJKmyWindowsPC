@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Meiryo & Meiryo Italic & Meiryo UI & Meiryo UI Italic (TrueType)"=""
+"Meiryo Bold & Meiryo Bold Italic & Meiryo UI Bold & Meiryo UI Bold Italic (TrueType)"=""
+"Malgun Gothic (TrueType)"=""
+"Malgun Gothic Bold (TrueType)"=""
+"Malgun Gothic SemiLight (TrueType)"=""
+"Microsoft YaHei & Microsoft YaHei UI (TrueType)"=""
+"Microsoft YaHei Bold & Microsoft YaHei UI Bold (TrueType)"=""
+"Microsoft YaHei Light & Microsoft YaHei UI Light (TrueType)"=""
+"Microsoft JhengHei & Microsoft JhengHei UI (TrueType)"=""
+"Microsoft JhengHei Bold & Microsoft JhengHei UI Bold (TrueType)"=""
+"Microsoft JhengHei Light & Microsoft JhengHei UI Light (TrueType)"=""
+"SimSun & NSimSun (TrueType)"=""
