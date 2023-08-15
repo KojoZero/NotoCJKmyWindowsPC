@@ -6,7 +6,7 @@ Meiryo and Meiryo UI -> Noto Sans JP
 Malgun Gothic -> Noto Sans KR  
 Microsoft JhengHei -> Noto Sans TC  
 Microsoft YaHei -> Noto Sans SC  
-Simsun & NSimSun -> Noto Sans SC (Although Simsun is serif, it's most commonly used incorrectly as a fallback sans serif font)  
+Simsun & NSimSun -> Noto Serif SC (Changed because very commonly used font)  
   
 # How To Use:  
 Download Latest Release Zip  
