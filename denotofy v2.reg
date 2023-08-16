@@ -1,0 +1,40 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Meiryo & Meiryo Italic & Meiryo UI & Meiryo UI Italic (TrueType)"="meiryo.ttc"
+"Meiryo Bold & Meiryo Bold Italic & Meiryo UI Bold & Meiryo UI Bold Italic (TrueType)"="meiryob.ttc"
+"Malgun Gothic (TrueType)"="malgun.ttf"
+"Malgun Gothic Bold (TrueType)"="malgunbd.ttf"
+"Malgun Gothic SemiLight (TrueType)"="malgunsl.ttf"
+"Microsoft YaHei & Microsoft YaHei UI (TrueType)"="msyh.ttc"
+"Microsoft YaHei Bold & Microsoft YaHei UI Bold (TrueType)"="msyhbd.ttc"
+"Microsoft YaHei Light & Microsoft YaHei UI Light (TrueType)"="msyhl.ttc"
+"Microsoft JhengHei & Microsoft JhengHei UI (TrueType)"="msjh.ttc"
+"Microsoft JhengHei Bold & Microsoft JhengHei UI Bold (TrueType)"="msjhbd.ttc"
+"Microsoft JhengHei Light & Microsoft JhengHei UI Light (TrueType)"="msjhl.ttc"
+"SimSun & NSimSun (TrueType)"="simsun.ttc"
+"SimSun-ExtB (TrueType)"="simsunb.ttf"
+"Meiryo UI Bold Italic (TrueType)"=- 
+"Meiryo UI Bold (TrueType)"=-
+"Meiryo Bold Italic (TrueType)"=-
+"Meiryo Bold (TrueType)"=-
+"Meiryo UI Regular (TrueType)"=-
+"Meiryo UI Italic (TrueType)"=- 
+"Meiryo Regular (TrueType)"=-
+"Meiryo Italic (TrueType)"=-
+"Microsoft YaHei UI Regular (TrueType)"=-
+"Microsoft YaHei Regular (TrueType)"=-
+"Microsoft YaHei UI Bold (TrueType)"=-
+"Microsoft YaHei Bold (TrueType)"=-
+"Microsoft YaHei UI Light (TrueType)"=-
+"Microsoft YaHei Light (TrueType)"=-
+"Microsoft JhengHei UI Regular (TrueType)"=- 
+"Microsoft JhengHei Regular (TrueType)"=-
+"Microsoft JhengHei UI Bold (TrueType)"=-
+"Microsoft JhengHei Bold (TrueType)"=-
+"Microsoft JhengHei UI Light (TrueType)"=-
+"Microsoft JhengHei Light (TrueType)"=-
+"Malgun Gothic Regular (TrueType)"=-
+"SimSun Regular (TrueType)"=-
+"SimSun-ExtB Regular (TrueType)"=-
+"NSimSun Regular (TrueType)"=-
