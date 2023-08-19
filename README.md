@@ -1,7 +1,6 @@
 # NotoCJKmyWindowsPC
 Replaces various commonly used CJK fonts with their respective NotoCJK Font
 
-**If you've already used v2.1, make sure to download the hotfix and logout**
 
 # Fonts Changed:  
 Meiryo -> Noto Sans JP  
